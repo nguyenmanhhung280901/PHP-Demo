@@ -10,10 +10,10 @@
 <body>
 <h1>Quản lí giáo viên</h1>
 <ul>
-    <li href="/admin/teacher/create">1.Create Teacher</li>
-    <li href="/admin/teacher/update">2.Update Teacher</li>
-    <li href="/admin/teacher/delete">Delete Teacher</li>
-    <li href="/admin/teacher/showlist">Showlist Teacher</li>
+    <li href="create.blade.php">1.Create Teacher</li>
+    <li href="update.blade.php">2.Update Teacher</li>
+    <li href="delete.blade.php">Delete Teacher</li>
+    <li href="showlist.blade.php">Showlist Teacher</li>
 </ul>
 </body>
 </html>

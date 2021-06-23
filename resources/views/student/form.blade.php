@@ -10,10 +10,10 @@
 <body>
 <h1>Quan li sinh viên</h1>
 <ul>
-    <li href="/admin/student/create">1.Create student</li>
-    <li href="/admin/student/update">2.Update student</li>
-    <li href="/admin/student/delete">Delete student</li>
-    <li href="/admin/student/showlist">Showlist student</li>
+    <li href="create.blade.php">1.Create student</li>
+    <li href="update.blade.php">2.Update student</li>
+    <li href="delete.blade.php">Delete student</li>
+    <li href="showlist.blade.php">Showlist student</li>
 </ul>
 </body>
 </html>
